@@ -27,6 +27,8 @@ public class Match
         // get och privat set för Datum
     }
 
+    // Pluspoäng om ni kommer på hur man kan minska ner koden med properties :)
+
     // Konstruktor
     public Match(string hemmalag, string bortalag, string datum)
     {
