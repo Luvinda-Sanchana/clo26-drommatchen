@@ -1,7 +1,7 @@
 
 # Reflektion
 
-**Namn:**  Yuk Ting Ku 
+**Namn:**  Yuk Ting Ku (Grupp Zombie)
 
 **Kurs:**  Grundläggande OOP i C# 
 
