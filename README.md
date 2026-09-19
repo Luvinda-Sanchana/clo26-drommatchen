@@ -1,6 +1,6 @@
 # Drömmatchen ⚽
 
-> Beskriv ert spel med en mening — vilka spelare, vilket lag, vad händer?
+> Den 18:e september 2026 möter Legends United och World XI i en drömmatch där spelarna kan göra mål och bli matchhjältar.
 
 ---
 
