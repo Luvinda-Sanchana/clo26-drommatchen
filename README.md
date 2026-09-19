@@ -6,9 +6,9 @@
 
 ## Grupp
 
-- [Namn 1]
-- [Namn 2]
-- [Namn 3]
+- [Luvinda Sanchana Weerasinghe]
+- [Yuk Ting Ku]
+- [Aysha Nihal]
 
 ## Så kör du projektet
 
