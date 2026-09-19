@@ -6,7 +6,7 @@
 
 **Grupp:**  Zombie
 
-**Datum:**  19-09-2026
+**Datum:**  18-09-2026
 
 **GitHub:**  https://github.com/Luvinda-Sanchana/clo26-drommatchen
 
@@ -19,7 +19,7 @@
 |------|-----------|
 | [Luvinda Sanchana Weerasinghe] | Zip + RAPPORT.md + REFLEKTION.md |
 | [Yuk Ting Ku] | REFLEKTION.md |
-| [Namn 3] | REFLEKTION.md |
+| [Aysha Nihal] | REFLEKTION.md |
 
 ---
 
