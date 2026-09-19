@@ -8,7 +8,7 @@
 
 **Datum:**  19-09-2026
 
-**GitHub:**  
+**GitHub:**  https://github.com/Luvinda-Sanchana/clo26-drommatchen
 
 
 ---
@@ -30,7 +30,7 @@
 
 ### Klasserna
 
-> Vi skapade två klasser: "Spelare" och "Match". 
+- Vi skapade två klasser: "Spelare" och "Match". 
 - I "Match" skapades privata fält för "_hemmalag", "_bortalag" och "_datum" som exponeras via publika properties med "private set". 
 - I "Spelare" skapades privata fält för "_namn", "_nummer", "_position" samt ett extra fält "_mål" för att lagra antalet gjorda mål. Även dessa skyddas med "private set".
 
@@ -75,5 +75,12 @@ Genom att returnera ett "bool"-värde blir koden mer återanvändbar och flexibe
 Klistra in utskriften från `git log --oneline` här:
 
 ```
-[klistra in här]
-```
+53b4983 (HEAD -> main, origin/main, origin/HEAD) Merge branch 'main' of https://github.com/Luvinda-Sanchana/clo26-drommatchen
+51da091 report content
+6f7eb63 Update team member names in README
+b70a0a3 Update README game description
+119e528 docs: lägg till Luvindas reflektion
+95cafc6 Update RAPPORT.md
+82cb846 update2
+4f060d3 update
+5c25dab Update group name to 'Zombie' in RAPPORT.md```
