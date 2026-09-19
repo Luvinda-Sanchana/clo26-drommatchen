@@ -2,7 +2,7 @@
 
 **Kurs:** Grundläggande OOP i C#  
 **Uppgift:**  
-**Grupp:**  
+**Grupp:**  Zombie
 **Datum:**  
 **GitHub:**  
 
