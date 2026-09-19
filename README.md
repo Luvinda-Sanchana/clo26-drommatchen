@@ -1,14 +1,14 @@
 # Drömmatchen ⚽
 
-> Beskriv ert spel med en mening — vilka spelare, vilket lag, vad händer?
+> Den 18:e september 2026 möter Legends United och World XI i en drömmatch där spelarna kan göra mål och bli matchhjältar.
 
 ---
 
 ## Grupp
 
-- [Namn 1]
-- [Namn 2]
-- [Namn 3]
+- [Luvinda Sanchana Weerasinghe]
+- [Yuk Ting Ku]
+- [Aysha Nihal]
 
 ## Så kör du projektet
 
