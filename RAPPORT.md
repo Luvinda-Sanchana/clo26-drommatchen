@@ -1,9 +1,9 @@
 # Rapport
 
 **Kurs:** Grundläggande OOP i C#  
-**Uppgift:**  
+**Uppgift:**  Drommatchen
 **Grupp:**  Zombie
-**Datum:**  
+**Datum:**  19-09-2026
 **GitHub:**  
 
 ---
