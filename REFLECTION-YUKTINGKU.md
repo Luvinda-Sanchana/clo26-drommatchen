@@ -34,7 +34,7 @@
 
 - Samarbetet i gruppen fungerade mycket bra. Vi träffades fysiskt och diskuterade koden tillsammans, där vi färdigställde den slutgiltiga koden på en gemensam dator. Det är anledningen till att vi inte har så många enskilda commits för själva koden. 
 
-Därefter delade vi upp rapportskrivandet och slutförde det var för sig. Under arbetets gång insåg jag hur viktigt det är att använda Git-funktioner som commit och push på rätt sätt för att kunna samarbeta mer effektivt och arbeta på ett professionellt sätt som utvecklare.
+- Därefter delade vi upp rapportskrivandet och slutförde det var för sig. Under arbetets gång insåg jag hur viktigt det är att använda Git-funktioner som commit och push på rätt sätt för att kunna samarbeta mer effektivt och arbeta på ett professionellt sätt som utvecklare.
 
 ---
 
