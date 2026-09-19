@@ -17,7 +17,7 @@
 
 | Namn | Lämnade in |
 |------|-----------|
-| [Namn 1] | Zip + RAPPORT.md + REFLEKTION.md |
+| [Luvinda Sanchana Weerasinghe] | Zip + RAPPORT.md + REFLEKTION.md |
 | [Yuk Ting Ku] | REFLEKTION.md |
 | [Namn 3] | REFLEKTION.md |
 
