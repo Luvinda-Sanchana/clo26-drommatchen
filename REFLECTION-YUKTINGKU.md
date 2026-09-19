@@ -23,7 +23,7 @@
 
 - Det svåraste var felsökningen (debuggingen). Även om det finns bra verktyg för debugging i Visual Studio var det ibland frustrerande när koden inte fungerade som förväntat. 
 
-Ett specifikt exempel var i "Main()" när jag skulle skapa nya "Spelare"-objekt och fick ett felmeddelande. Det tog lång tid att lista ut att felet berodde på att jag hade lagt till variabeln "mål" i klassen "Spelare", men inte uppdaterat konstruktorn så att den tog emot parametern "mål". Eftersom jag först löste uppgiften för G-nivå och därefter bestämde mig för att sikta på VG, blev det lite rörigt i koden innan jag kopplade ihop alla variabler.
+- Ett specifikt exempel var i "Main()" när jag skulle skapa nya "Spelare"-objekt och fick ett felmeddelande. Det tog lång tid att lista ut att felet berodde på att jag hade lagt till variabeln "mål" i klassen "Spelare", men inte uppdaterat konstruktorn så att den tog emot parametern "mål". Eftersom jag först löste uppgiften för G-nivå och därefter bestämde mig för att sikta på VG, blev det lite rörigt i koden innan jag kopplade ihop alla variabler.
 
 ---
 
